@@ -816,3 +816,46 @@ input{
     justify-content: space-around;
     width: 160px;
     }
+.F3{
+    margin: 50px 140px 188px 0px;
+    width: 255px;
+    height: 94px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    }
+.FText{
+    margin-bottom: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #0F6EFF;    
+    }
+.FInput{
+    display: flex;
+    flex-direction: row;
+    width: 255px;
+    height: 40px;
+    background: #0F6EFF;
+    opacity: 0.2;
+    border-radius: 6px;
+    }
+.FIEmail{
+    margin: 8px 0px 8px 12px;
+    width: 120px;
+    height: 24px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+    }
+#FIVector{
+    margin: 11.75px 11.75px 12.75px 93.75px;
+    width: 16.5px;
+    height: 16.5px;
+    background: #0F6EFF;
+    }
